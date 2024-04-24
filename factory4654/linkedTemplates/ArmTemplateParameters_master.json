@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "factory4654"
+		},
+		"cloudstaginglake657_accountKey": {
+			"value": ""
+		},
+		"cloudstaginglake657_properties_typeProperties_url": {
+			"value": "https://cloudstaginglake657.dfs.core.windows.net/"
+		},
+		"githubserver_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/ammarasmro/mslearn-dp100/main/data/diabetes.csv"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
